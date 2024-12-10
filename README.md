@@ -9,4 +9,4 @@ then, in the terminal, activate the venv that you just created; this process var
     pip install -r requirements.txt
 
 
-to install all the needed modules.
+to install all needed modules.
